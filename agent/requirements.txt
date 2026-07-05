@@ -1,0 +1,3 @@
+# No external dependencies yet -- this agent is built with
+# the Python standard library only, on purpose, to keep the
+# Git lessons focused on Git itself rather than environment setup.
